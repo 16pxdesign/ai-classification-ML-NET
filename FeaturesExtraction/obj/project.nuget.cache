@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lexUBQDN3cQBbqGV+ODeDWsP22e5vsrJ3vlW85Df0iB56it/h1WZvNDy5AbsIpC7hmEpBltPKSUdiJY58bWOyg==",
+  "success": true,
+  "projectFilePath": "\\\\NAS3CADF0\\Archive\\ExHDD20201218\\synology_11_6_2020\\education\\university\\projects\\year3\\s2\\ai\\assement2\\AI v1.0\\FeaturesExtraction\\FeaturesExtraction.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bill\\.nuget\\packages\\dlibdotnet\\19.18.0.20200301\\dlibdotnet.19.18.0.20200301.nupkg.sha512"
+  ],
+  "logs": []
+}
